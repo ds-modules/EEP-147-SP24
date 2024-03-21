@@ -1,0 +1,22 @@
+game,team,portfolio,price
+W9,Arrow,East Bay,300000
+W9,Becker,Beachfront,280000
+W9,Coase,Fossil Light,380000
+W9,Debreu,Bay Views,240000
+W9,Friedman,Big Gas,100000
+W9,Heckman,Big Coal,100000
+W9,Krugman,Old Timers,100000
+T1,Arrow,Bay Views,440000
+T1,Becker,Big Coal,270000
+T1,Coase,Beachfront,280000
+T1,Debreu,Big Gas,110000
+T1,Friedman,East Bay,300000
+T1,Heckman,Old Timers,500000
+T1,Krugman,Fossil Light,480000
+T2,Arrow,Bay Views,570000
+T2,Becker,Big Coal,320000
+T2,Coase,Beachfront,350000
+T2,Debreu,Big Gas,270000
+T2,Friedman,East Bay,300000
+T2,Heckman,Old Timers,100000
+T2,Krugman,Fossil Light,100000
